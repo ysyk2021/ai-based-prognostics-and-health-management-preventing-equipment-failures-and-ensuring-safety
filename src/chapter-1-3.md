@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-==================================================
 
 This book, "AI-Based Prognostics and Health Management: Preventing Equipment Failures and Ensuring Safety", aims to provide readers with a comprehensive understanding of how AI-based systems can be used to improve equipment reliability, prevent failures, and ensure safety.
 

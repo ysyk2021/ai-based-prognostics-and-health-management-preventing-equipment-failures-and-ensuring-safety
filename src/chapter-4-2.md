@@ -1,5 +1,3 @@
-Sensor and Monitoring Data
-==============================================================================================
 
 Prognostics and health management (PHM) systems rely on data collection and analysis to identify equipment anomalies and predict failures. In this chapter, we will explore the importance of sensor and monitoring data in PHM systems and how to collect and analyze this data effectively.
 

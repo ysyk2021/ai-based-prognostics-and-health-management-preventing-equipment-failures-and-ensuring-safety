@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Prognostics and Health Management
-==========================================================================================================================================================
 
 Artificial intelligence (AI) technology is playing an increasingly important role in prognostics and health management (PHM), helping organizations optimize equipment performance, reduce unplanned downtime, increase equipment reliability, and improve asset management. In this chapter, we will explore the different types of AI and their applications in PHM.
 

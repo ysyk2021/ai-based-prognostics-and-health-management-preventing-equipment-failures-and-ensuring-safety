@@ -1,5 +1,3 @@
-Integration with PHM Processes and Tools
-======================================================================================================
 
 Implementing an AI-based prognostics and health management (PHM) system involves integrating it with existing processes and tools. This chapter will focus on the importance of integrating an AI-based PHM system with existing PHM processes and tools to ensure its effectiveness.
 

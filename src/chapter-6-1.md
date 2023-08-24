@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Prognostics and Health Management
-=================================================================================================================================
 
 Implementing AI-based prognostics and health management (PHM) systems can be a complex process that involves multiple stages, including data collection, analysis, model development, and deployment. In this chapter, we will provide an overview of the key steps involved in implementing AI-based PHM systems.
 

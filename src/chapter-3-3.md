@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Prognostics and Health Management
-================================================================================================================================
 
 Artificial intelligence (AI) is increasingly being used to improve prognostics and health management (PHM) systems. This chapter will provide case studies that demonstrate how AI can be used to optimize equipment performance, reduce unplanned downtime, increase equipment reliability, and improve asset management.
 

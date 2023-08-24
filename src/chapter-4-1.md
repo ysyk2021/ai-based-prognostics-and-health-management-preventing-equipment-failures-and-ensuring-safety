@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Prognostics and Health Management
-==================================================================================================================================================
 
 Prognostics and health management (PHM) systems rely on data collection and analysis to identify equipment anomalies and predict failures. In this chapter, we will provide a general overview of data collection and analysis for PHM and its importance in ensuring equipment safety and avoiding downtime.
 

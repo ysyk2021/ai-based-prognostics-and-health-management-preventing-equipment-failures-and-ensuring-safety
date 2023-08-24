@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-===================================================================================================
 
 The use of AI-based prognostics and health management (PHM) systems has the potential to revolutionize equipment maintenance and improve worker safety. However, there are also significant regulatory and ethical considerations that must be taken into account when implementing these systems. In this chapter, we will discuss some of the key regulatory and ethical considerations that organizations must consider when implementing AI-based PHM systems.
 

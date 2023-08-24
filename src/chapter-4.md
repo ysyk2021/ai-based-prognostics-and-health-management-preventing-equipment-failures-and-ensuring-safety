@@ -1,5 +1,3 @@
-Data Collection and Analysis for Prognostics and Health Management
-==================================================================
 
 Collecting and analyzing data is crucial for effective prognostics and health management (PHM) systems. This chapter will provide an overview of the importance of collecting and analyzing sensor and monitoring data, maintenance and repair data, environmental and operational data, and regulatory and compliance data.
 

@@ -1,5 +1,3 @@
-AI-Based Prognostics and Health Management Techniques and Strategies
-====================================================================
 
 As equipment and machinery become more complex, the need for effective prognostics and health management (PHM) systems has become increasingly important. AI-based PHM techniques leverage machine learning and data analytics to predict equipment failures and prevent downtime. In this chapter, we will discuss some of the key AI-based PHM techniques and strategies.
 

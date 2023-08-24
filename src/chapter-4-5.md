@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-==================================================================================================
 
 Effective prognostics and health management (PHM) requires accurate and comprehensive data collection and analysis. In addition to operational data, regulatory and compliance data must also be considered when implementing these systems. In this chapter, we will discuss the importance of regulatory and compliance data in PHM systems and how organizations can effectively collect and analyze this data.
 

@@ -1,5 +1,3 @@
-Implementation of AI-Based Prognostics and Health Management
-============================================================
 
 Implementing AI-based prognostics and health management (PHM) systems can be a complex process, requiring careful consideration of regulatory and ethical considerations, as well as integration with existing processes and tools. In this chapter, we will discuss some of the key considerations when implementing AI-based PHM.
 

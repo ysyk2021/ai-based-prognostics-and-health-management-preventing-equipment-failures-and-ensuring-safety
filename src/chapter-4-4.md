@@ -1,5 +1,3 @@
-Environmental and Operational Data
-======================================================================================================
 
 Collecting and analyzing environmental and operational data is crucial for effective prognostics and health management (PHM) systems. This chapter will focus on the importance of collecting and analyzing environmental and operational data and how it can be used to improve equipment safety and reliability.
 

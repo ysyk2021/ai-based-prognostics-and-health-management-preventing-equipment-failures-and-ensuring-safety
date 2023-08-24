@@ -1,5 +1,3 @@
-Machine Learning and Predictive Analytics
-===============================================================================================================
 
 Machine learning (ML) and predictive analytics are critical components of AI-based prognostics and health management (PHM) systems. In this chapter, we will discuss the role of ML and predictive analytics in PHM and explore some of the key techniques and strategies used in these areas.
 

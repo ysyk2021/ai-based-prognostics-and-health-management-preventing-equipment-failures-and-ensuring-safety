@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-====================================================================================================
 
 Implementing AI-based prognostics and health management (PHM) systems requires significant resources and investment. To ensure that these systems are cost-effective, organizations must carefully consider their business models and overall strategy for implementation. In this chapter, we will discuss the importance of business models and cost-effectiveness in implementing AI-based PHM systems, as well as strategies for effective implementation.
 

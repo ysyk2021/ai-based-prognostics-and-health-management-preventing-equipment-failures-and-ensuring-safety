@@ -1,5 +1,3 @@
-Employee Education and Engagement
-===============================================================================================
 
 The implementation of AI-based prognostics and health management (PHM) systems can significantly improve the performance and safety of equipment. However, to ensure the success of these systems, it is crucial to educate and engage employees on their importance. In this chapter, we will explore how to educate and engage employees in the implementation of AI-based PHM systems.
 

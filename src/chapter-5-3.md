@@ -1,5 +1,3 @@
-Fault Diagnosis and Prognostics
-=====================================================================================================
 
 Fault diagnosis and prognostics are key techniques used in AI-based prognostics and health management (PHM) systems. In this chapter, we will discuss the role of fault diagnosis and prognostics in PHM, explore some of the key techniques and strategies used in these areas.
 

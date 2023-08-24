@@ -1,5 +1,3 @@
-Future Directions and Challenges
-================================
 
 The use of AI-based prognostics and health management (PHM) systems has shown great promise in improving equipment reliability, reducing downtime, and enhancing worker safety. However, there are still many challenges and opportunities that must be addressed in order to continue advancing these systems and realizing their full potential. In this chapter, we will discuss some of the key future directions and challenges facing AI-based PHM.
 

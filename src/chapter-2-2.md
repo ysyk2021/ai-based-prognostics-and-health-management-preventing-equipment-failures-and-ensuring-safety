@@ -1,5 +1,3 @@
-Traditional Approaches to Prognostics and Health Management
-============================================================================================================
 
 Traditional approaches to Prognostics and Health Management (PHM) have been used for decades and involve methods such as condition monitoring, reliability-centered maintenance (RCM), failure modes and effects analysis (FMEA), and preventive maintenance (PM).
 

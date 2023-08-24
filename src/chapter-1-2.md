@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Prognostics and Health Management
-===========================================================================================================
 
 Artificial Intelligence (AI) is a rapidly advancing field that has the potential to revolutionize many industries, including Prognostics and Health Management (PHM). AI involves the development of algorithms and systems that can perform tasks that typically require human intelligence, such as reasoning, learning, perception, and decision-making.
 

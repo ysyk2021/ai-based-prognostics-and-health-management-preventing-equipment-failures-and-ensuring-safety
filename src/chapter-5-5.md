@@ -1,5 +1,3 @@
-Decision Support and Optimization
-=======================================================================================================
 
 One of the key benefits of AI-based prognostics and health management (PHM) systems is the ability to provide decision support and optimization. By analyzing data from multiple sources, these systems can provide insight into the impact of different decisions and help organizations make more informed choices. In this chapter, we will discuss the importance of decision support and optimization in PHM systems and how organizations can effectively implement these strategies.
 

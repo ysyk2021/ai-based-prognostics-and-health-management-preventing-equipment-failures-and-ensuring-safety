@@ -1,5 +1,3 @@
-Maintenance and Repair Data
-===============================================================================================
 
 Collecting and analyzing data related to maintenance and repair is crucial for effective prognostics and health management (PHM) systems. This chapter will focus on the importance of collecting and analyzing maintenance and repair data and how it can be used to improve equipment safety and reliability.
 

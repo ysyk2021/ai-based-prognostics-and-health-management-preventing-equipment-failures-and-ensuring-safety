@@ -1,5 +1,3 @@
-Anomaly Detection and Root Cause Analysis
-===============================================================================================================
 
 Anomaly detection and root cause analysis (RCA) are critical components of AI-based prognostics and health management (PHM) systems. In this chapter, we will discuss the role of anomaly detection and RCA in PHM, explore some of the key techniques and strategies used in these areas.
 
